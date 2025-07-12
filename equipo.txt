@@ -1,3 +1,4 @@
 Jahir Jimenez
-Aldo Lopez
-alumno b presente 
+Aldo Lopez 
+Alumno A presente
+Alumno B presente
